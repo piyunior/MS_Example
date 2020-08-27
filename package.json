@@ -1,0 +1,24 @@
+{
+    "name": "ms_example",
+    "version": "1.0.0",
+    "description": "Repository created in order to show a simple example of a microservice.",
+    "main": "main.js",
+    "author": {
+        "name": "Jesús Ramos",
+        "email": "jesusramos.1992@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/piyunior/MS_Example"
+    },
+    "keywords": [
+        "Example",
+        "Microservices",
+        "Microservicios",
+        "Express",
+        "NodeJs"
+    ],
+    "dependencies": {
+        "express": "^4.17.1",
+        "body-parser": "^1.19.0"
+    }
+}
