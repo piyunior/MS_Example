@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "Repository created in order to show a simple example of a microservice.",
     "main": "main.js",
+    "scripts": {
+        "start":"node main.js",
+        "nodemon":"nodemon main.js"
+    },
     "author": {
         "name": "Jesús Ramos",
         "email": "jesusramos.1992@gmail.com"
